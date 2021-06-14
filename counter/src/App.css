@@ -1,0 +1,21 @@
+.Contador{
+  color: white;
+  background-color: black;
+  display: flex;
+ 
+  align-items: center;
+  flex-direction: column;
+  width: 50vw;
+  padding: 10px;
+}
+.ButtonDiv{
+  display: flex;
+
+}
+
+.Cabeçalho{
+  display: flex;
+  width: 50vw;
+  padding: 10px;
+  justify-content: space-between;
+}
